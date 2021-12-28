@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03day/03day.iml" filepath="$PROJECT_DIR$/03day/03day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis08/BatisFinal.iml" filepath="$PROJECT_DIR$/myBatis08/BatisFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crm/Crm.iml" filepath="$PROJECT_DIR$/Crm/Crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java01.iml" filepath="$PROJECT_DIR$/Java01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax/ajax.iml" filepath="$PROJECT_DIR$/ajax/ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis08/myBatis08.iml" filepath="$PROJECT_DIR$/myBatis08/myBatis08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis03/mybatis03.iml" filepath="$PROJECT_DIR$/mybatis03/mybatis03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybook/mybook.iml" filepath="$PROJECT_DIR$/mybook/mybook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
